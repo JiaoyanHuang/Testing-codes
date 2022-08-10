@@ -1,0 +1,6 @@
+How to create a new vitrual env under Anacona prompt
+conda create -n pseudonetcdf_env python=3.7
+conda activate pseudonetcdf_env
+pip install --upgrade pip
+
+the new env can be added via pycharm
